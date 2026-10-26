@@ -1,2 +1,5 @@
 # cidsTele
-Custome Intrusion Detection System (Telegram)
+Custom Intrusion Detection System (Telegram)
+
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+SEM 4, ISA: INTERNET AND NETWORK SECURITY
