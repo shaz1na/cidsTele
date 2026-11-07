@@ -5,8 +5,8 @@ from collections import defaultdict
 
 #Telegram Bot Info
 #Keep this info hidden and PRIVATE
-bot_token = '8034629214:AAH1s1WUtjYi5hOqHEVXmN2UCUqn_tE-bH8'
-chat_id = '5334616985'
+bot_token = 'FROM TELEGRAM AFTER CREATING A CHATBOT'
+chat_id = 'FROM TELEGRAM AFTER CREATING A CHATBOT'
 
 def send_alert(message):
     url = 'https://api.telegram.org/bot' + bot_token + '/sendMessage'
